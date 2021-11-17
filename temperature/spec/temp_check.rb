@@ -1,7 +1,7 @@
 require './lib/except_check'
 
 RSpec.describe ExeceptChecker do
-  describe '.except_check' do
+  describe '.except' do
     context 'check_number' do
       it { expect(ExeceptChecker.new('155', 'F', 'F').check_number?('155')).to eq(true) }
     end
