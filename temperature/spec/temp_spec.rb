@@ -1,4 +1,4 @@
-require './temp_converter'
+require './lib/temp_converter'
 
 RSpec.describe Converter do
   describe '.temp' do
