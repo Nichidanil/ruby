@@ -1,6 +1,6 @@
-require_relative 'temp_converter'
-require_relative 'except_check'
-require_relative 'init'
+require './lib/temp_converter'
+require './lib/except_check'
+require './lib/init'
 
 def main
   hello = Initial.new
