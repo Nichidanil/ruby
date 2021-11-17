@@ -1,0 +1,66 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/danil/ruby/temperature/lib/except_check.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          6,
+          null,
+          6,
+          6,
+          6,
+          null,
+          null,
+          1,
+          3,
+          null,
+          1,
+          null,
+          null,
+          1,
+          3,
+          null,
+          2,
+          null,
+          null
+        ]
+      },
+      "/home/danil/ruby/temperature/lib/temp_converter.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          6,
+          null,
+          6,
+          6,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1637150093
+  }
+}
